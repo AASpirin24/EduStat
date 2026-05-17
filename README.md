@@ -4,29 +4,29 @@
 ---
 ## Folder structure
 
-student_grades_manager/
-├── StudentGradesManager.sln
-├── StudentGradesManager.vcxproj
-├── StudentGradesManager.vcxproj.filters
-├── include/       Header files
-├── src/           C++ source files
-├── data/          CSV data files
-├── logs/          Application logs
-├── build/         Build output folder
-├── docs/          Extra documentation
-└── Makefile       Optional Linux/macOS build script
+student_grades_manager/ <br>
+├── StudentGradesManager.sln <br>
+├── StudentGradesManager.vcxproj <br>
+├── StudentGradesManager.vcxproj.filters <br>
+├── include/       Header files <br>
+├── src/           C++ source files <br>
+├── data/          CSV data files <br>
+├── logs/          Application logs <br>
+├── build/         Build output folder <br>
+├── docs/          Extra documentation <br>
+└── Makefile       Optional Linux/macOS build script <br>
 
 ## Features
 
-- Add, edit, and delete student records
-- Add, update, remove, and clear grades
-- Search students by name, group, and average range
-- Sort by ID, first name, last name, group, and average grade
-- Recursive average calculation for individual students and class average
-- CSV file loading and saving
-- Grade validation using the Bulgarian grading scale from 2.00 to 6.00
-- Statistical reports: class average, median, distribution, group averages, top students
-- Logging of main application actions
+- Add, edit, and delete student records <br>
+- Add, update, remove, and clear grades <br>
+- Search students by name, group, and average range <br>
+- Sort by ID, first name, last name, group, and average grade <br>
+- Recursive average calculation for individual students and class average <br>
+- CSV file loading and saving <br>
+- Grade validation using the Bulgarian grading scale from 2.00 to 6.00 <br>
+- Statistical reports: class average, median, distribution, group averages, top students <br>
+- Logging of main application actions <br>
 
 ## Used Programs
 
