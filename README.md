@@ -1,8 +1,32 @@
 # THEME: Students grade managment
 # TEAM: EduStat
-<p><img src="" alt="team logo" width="200"></p>
 
 ---
+## Folder structure
+
+student_grades_manager/
+├── StudentGradesManager.sln
+├── StudentGradesManager.vcxproj
+├── StudentGradesManager.vcxproj.filters
+├── include/       Header files
+├── src/           C++ source files
+├── data/          CSV data files
+├── logs/          Application logs
+├── build/         Build output folder
+├── docs/          Extra documentation
+└── Makefile       Optional Linux/macOS build script
+
+## Features
+
+- Add, edit, and delete student records
+- Add, update, remove, and clear grades
+- Search students by name, group, and average range
+- Sort by ID, first name, last name, group, and average grade
+- Recursive average calculation for individual students and class average
+- CSV file loading and saving
+- Grade validation using the Bulgarian grading scale from 2.00 to 6.00
+- Statistical reports: class average, median, distribution, group averages, top students
+- Logging of main application actions
 
 ## Used Programs
 
