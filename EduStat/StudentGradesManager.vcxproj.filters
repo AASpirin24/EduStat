@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D1013B3B-CC45-43EC-9BD2-8EF969DD248F}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{77D36476-C5A0-42B8-B071-7C47CFC59399}</UniqueIdentifier>
+      <Extensions>cpp;cxx;cc;c</Extensions>
+    </Filter>
+    <Filter Include="Data Files">
+      <UniqueIdentifier>{F1298085-A38C-4925-9473-4B687FAAF549}</UniqueIdentifier>
+      <Extensions>csv;txt;json</Extensions>
+    </Filter>
+    <Filter Include="Documentation">
+      <UniqueIdentifier>{4B7D66EC-1087-4473-9C82-B80C9192F470}</UniqueIdentifier>
+      <Extensions>md</Extensions>
+    </Filter>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ClInclude Include="include\FileStorage.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\GradeManager.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\InputValidator.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\Logger.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\Menu.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\Statistics.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\Student.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\ConsoleTheme.h"><Filter>Header Files</Filter></ClInclude>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ClCompile Include="src\FileStorage.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\GradeManager.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\InputValidator.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\Logger.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\Menu.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\Statistics.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\Student.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\ConsoleTheme.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\main.cpp"><Filter>Source Files</Filter></ClCompile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="data\students.csv"><Filter>Data Files</Filter></None>
+    <None Include="docs\project_description.md"><Filter>Documentation</Filter></None>
+    <None Include="README.md"><Filter>Documentation</Filter></None>
+    <None Include="Makefile"><Filter>Documentation</Filter></None>
+  </ItemGroup>
+</Project>
