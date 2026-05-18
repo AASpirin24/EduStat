@@ -37,15 +37,16 @@ student_grades_manager/ <br>
 
 ### </> Code editors
 <p align="left">
-  <img src="" width="80" title="Visual Studio">
-  <img src="" width="80" title="GitHub">
+  Visual Studio <br>
+  Visual Studio Code <br>
+  GitHub <br>
 </p>
 
 ### 💬📝 Communication & Documentation
 <p align="left">
-  <img src="" width="80" title="Discord">
-  <img src="" width="80" title="Microsoft Word">
-  <img src="" width="80" title="PowerPoint">
+  Discord <br>
+  MS Teams <br>
+  MS Word <br>
 </p>
 
 ## 📂 Documentation & Presentation
