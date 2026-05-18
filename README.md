@@ -32,7 +32,7 @@ student_grades_manager/ <br>
 
 ### 📈 Markup languages
 <p align="left">
-  <img src="" width="84" title="C++">
+  C++ <br>
 </p>
 
 ### </> Code editors
@@ -52,9 +52,9 @@ student_grades_manager/ <br>
 ## 📂 Documentation & Presentation
 
 ### 📋 Documentation
-[Documentation]() 
+[Documentation](Documentation.docx) 
 ### 🎤 Presentation
-[Presentation]()
+[Presentation](Presentation.pptx)
 
 
 ## 👨🏻‍💻 Team Members
